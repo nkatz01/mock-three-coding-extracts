@@ -46,7 +46,8 @@
 
 4. **[5 marks]**
    Why is the `new` operator considered by some to be harmful? Use appropriate examples to justify your answer.
-
+	Because it's harder later to change implementation, extend and reuse previously designed components as the entities used are hard-coded and tightly coupled with each other.
+	Another reason is because it's harder to test the existing code in isolation or mock certain entities used as they're already decided in the code.
 5. **[10 marks]**
    By use of appropriate code examples illustrate how dependency injection can aid the flexibility of your code.
 

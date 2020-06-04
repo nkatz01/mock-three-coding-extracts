@@ -1,4 +1,3 @@
-C:\Users\nuche\OneDrive\Documents\mock-exam-paper-three-nkatz01\Mock3\QuestionSeven\obj\Debug\netcoreapp3.1\QuestionSeven.csprojAssemblyReference.cache
 C:\Users\nuche\OneDrive\Documents\mock-exam-paper-three-nkatz01\Mock3\QuestionSeven\obj\Debug\netcoreapp3.1\QuestionSeven.csproj.CoreCompileInputs.cache
 C:\Users\nuche\OneDrive\Documents\mock-exam-paper-three-nkatz01\Mock3\QuestionSeven\obj\Debug\netcoreapp3.1\QuestionSeven.AssemblyInfoInputs.cache
 C:\Users\nuche\OneDrive\Documents\mock-exam-paper-three-nkatz01\Mock3\QuestionSeven\obj\Debug\netcoreapp3.1\QuestionSeven.AssemblyInfo.cs
@@ -11,3 +10,4 @@ C:\Users\nuche\OneDrive\Documents\mock-exam-paper-three-nkatz01\Mock3\QuestionSe
 C:\Users\nuche\OneDrive\Documents\mock-exam-paper-three-nkatz01\Mock3\QuestionSeven\obj\Debug\netcoreapp3.1\QuestionSeven.dll
 C:\Users\nuche\OneDrive\Documents\mock-exam-paper-three-nkatz01\Mock3\QuestionSeven\obj\Debug\netcoreapp3.1\QuestionSeven.pdb
 C:\Users\nuche\OneDrive\Documents\mock-exam-paper-three-nkatz01\Mock3\QuestionSeven\obj\Debug\netcoreapp3.1\QuestionSeven.genruntimeconfig.cache
+C:\Users\nuche\OneDrive\Documents\mock-exam-paper-three-nkatz01\Mock3\QuestionSeven\obj\Debug\netcoreapp3.1\QuestionSeven.csprojAssemblyReference.cache
