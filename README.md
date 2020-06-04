@@ -54,7 +54,7 @@
 6. **[6 marks]**
    One way to extend a software system is to find a suitable superclass, and to subclass it. You can achieve a similar effect, without extending the class, by copying some of the operations of one class into a new second class and then delegating calls to an enclosed instance of the first class. Both of these extension techniques, however, require that you know at compile time what behaviour you want to add.
    What are the two techniques that we have just described? Indicate clearly “which is which”.
-   The first is inheritance and the second is  aggregation.
+   The first is inheritance and the second is  object composition or aggregation. (Another way would be prototyping).
 
 7. **[20 marks]**
    A refrigerator has a motor, a temperature sensor, a light, and a door. The motor turns on and off primarily as prescribed by the temperature sensor. However, the motor stops when the door is opened. The motor restarts when the door is closed assuming the temperature is too high. The light is turned on when the door is opened and is turned off when the door is closed.
