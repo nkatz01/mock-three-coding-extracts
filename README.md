@@ -40,7 +40,7 @@
 
 2. **[10 marks]**
    Certain types of online community networks are specialised in holding photos in the cloud. The principle is simple: users upload photos, which all others can view but only friends can download or comment on. What types of design patterns might be employed in this type of scenario? You should justify your answers and provide appropriate examples from this scenario.
-
+	Answer: The proxy pattern
 3. **[10 marks]**
    We wish to know if a class is using dynamic or static typing. Write some code utilising the reflection API to solve this problem.
 
@@ -53,6 +53,7 @@
 6. **[6 marks]**
    One way to extend a software system is to find a suitable superclass, and to subclass it. You can achieve a similar effect, without extending the class, by copying some of the operations of one class into a new second class and then delegating calls to an enclosed instance of the first class. Both of these extension techniques, however, require that you know at compile time what behaviour you want to add.
    What are the two techniques that we have just described? Indicate clearly “which is which”.
+   The first is inheritance and the second is  aggregation.
 
 7. **[20 marks]**
    A refrigerator has a motor, a temperature sensor, a light, and a door. The motor turns on and off primarily as prescribed by the temperature sensor. However, the motor stops when the door is opened. The motor restarts when the door is closed assuming the temperature is too high. The light is turned on when the door is opened and is turned off when the door is closed.
@@ -74,8 +75,9 @@
 
    Your are given the task of designing an extension to the system that preserves the same interface as the original system; the extension superimposes a grid on top of the graph output.
 
-   1. What design pattern should be applied here?
-   2. Provide a supporting argument for your choice in part (1).
+   1. What design pattern should be applied here? The decorator pattern 
+   2. Provide a supporting argument for your choice in part (1). As it allows to add additional behaviour to an entity without changing that entity by enclosing that entity in a class (decorator) that implements the same interface
+   the original entity implements and adding the additional functionality into the decorator. 
    3. How will you ensure that the SOLID principles are not violated?
 
 ------
